@@ -1,0 +1,12 @@
+{
+   "action_manifest_version" : 0,
+   "alias_info" : {},
+   "app_key" : "application.generated.unity.steamvrplugin2.exe",
+   "bindings" : {},
+   "category" : "steamvr_input",
+   "controller_type" : "vive_tracker",
+   "description" : "",
+   "name" : "My SteamVRPlugin2 [Testing] configuration for Vive Tracker",
+   "options" : {},
+   "simulated_actions" : []
+}

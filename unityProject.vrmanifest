@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.steamvrplugin2.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Git\\2019_Abraham_HeadJoystick_API\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "SteamVRPlugin2 [Testing]"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,620 @@
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+20.29268
+28.27752
+Vive tracker pitches related to the center of the back-rest rotation:
+11.97849
+17.10744
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8829325
+0.8305425
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+20.96189
+28.73969
+Vive tracker pitches related to the center of the back-rest rotation:
+13.09922
+18.36242
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8796935
+0.827232
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+23.34977
+31.33035
+Vive tracker pitches related to the center of the back-rest rotation:
+13.96757
+19.62307
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8582698
+0.8020592
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+21.04544
+28.89332
+Vive tracker pitches related to the center of the back-rest rotation:
+11.74499
+17.38588
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8660972
+0.8109564
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+15.82928
+23.76034
+Vive tracker pitches related to the center of the back-rest rotation:
+11.41953
+16.66186
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8997753
+0.845986
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+19.86139
+27.96398
+Vive tracker pitches related to the center of the back-rest rotation:
+12.63684
+18.14716
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8702677
+0.8140215
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+37.6698
+48.27191
+Vive tracker pitches related to the center of the back-rest rotation:
+26.20404
+33.60054
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.9527254
+0.9192623
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+41.66143
+50.4979
+Vive tracker pitches related to the center of the back-rest rotation:
+24.01744
+29.69161
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8967054
+0.8658586
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+47.13597
+39.4193
+Vive tracker pitches related to the center of the back-rest rotation:
+27.61908
+23.18107
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8712255
+0.9075581
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+41.92311
+50.46999
+Vive tracker pitches related to the center of the back-rest rotation:
+24.25216
+31.55766
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.899904
+0.8628762
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+44.03654
+52.60647
+Vive tracker pitches related to the center of the back-rest rotation:
+25.38474
+32.41207
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8908174
+0.853963
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+41.07426
+49.741
+Vive tracker pitches related to the center of the back-rest rotation:
+23.25382
+30.06333
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8716049
+0.8369809
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+41.96349
+50.12083
+Vive tracker pitches related to the center of the back-rest rotation:
+24.3156
+30.3706
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8740389
+0.8447066
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+43.05269
+35.01817
+Vive tracker pitches related to the center of the back-rest rotation:
+41.87551
+35.30898
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8453278
+0.8790798
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+27.6074
+32.98576
+Vive tracker pitches related to the center of the back-rest rotation:
+29.46066
+33.38528
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8996819
+0.8775505
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+26.75947
+34.90652
+Vive tracker pitches related to the center of the back-rest rotation:
+25.02571
+30.79967
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8320377
+0.7990343
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+27.11929
+35.19664
+Vive tracker pitches related to the center of the back-rest rotation:
+24.46419
+30.16265
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8307512
+0.797142
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+21.64815
+35.38693
+Vive tracker pitches related to the center of the back-rest rotation:
+19.094
+27.26632
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8873611
+0.8290291
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+26.39762
+35.02073
+Vive tracker pitches related to the center of the back-rest rotation:
+22.18473
+28.12138
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8709909
+0.8327299
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+27.13482
+35.21157
+Vive tracker pitches related to the center of the back-rest rotation:
+22.48694
+28.45087
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8706987
+0.8333994
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+26.1633
+34.38169
+Vive tracker pitches related to the center of the back-rest rotation:
+21.86544
+27.86674
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8743268
+0.8378161
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+25.77977
+33.57304
+Vive tracker pitches related to the center of the back-rest rotation:
+21.44795
+27.4286
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8779224
+0.8408266
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+29.93939
+143.6152
+Vive tracker pitches related to the center of the back-rest rotation:
+83.69685
+87.52241
+Distances between tracker and center of the back-rest rotation for each pitch:
+1.187181
+1.123974
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+30.36488
+144.3389
+Vive tracker pitches related to the center of the back-rest rotation:
+83.90521
+87.11877
+Distances between tracker and center of the back-rest rotation for each pitch:
+1.176119
+1.12132
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+151.2575
+143.4706
+Vive tracker pitches related to the center of the back-rest rotation:
+81.60938
+86.22921
+Distances between tracker and center of the back-rest rotation for each pitch:
+1.189342
+1.10506
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+151.0874
+143.1444
+Vive tracker pitches related to the center of the back-rest rotation:
+81.79691
+86.56326
+Distances between tracker and center of the back-rest rotation for each pitch:
+1.187749
+1.104705
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+137.2031
+129.481
+Vive tracker pitches related to the center of the back-rest rotation:
+88.07586
+94.11862
+Distances between tracker and center of the back-rest rotation for each pitch:
+1.293751
+1.227961
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+32.52222
+24.8551
+Vive tracker pitches related to the center of the back-rest rotation:
+24.62856
+18.71165
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.7624215
+0.8035269
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+39.64907
+31.81158
+Vive tracker pitches related to the center of the back-rest rotation:
+30.53068
+23.79709
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.7189772
+0.7680021
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+24.92129
+33.16785
+Vive tracker pitches related to the center of the back-rest rotation:
+20.99761
+26.54665
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8163707
+0.7657716
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+23.73877
+34.19542
+Vive tracker pitches related to the center of the back-rest rotation:
+24.04877
+30.66734
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8594137
+0.799343
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+34.14321
+26.29217
+Vive tracker pitches related to the center of the back-rest rotation:
+34.90853
+29.64826
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8336861
+0.8721532
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+40.00777
+32.27613
+Vive tracker pitches related to the center of the back-rest rotation:
+27.40858
+22.13824
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.6957769
+0.7537284
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+27.39772
+35.14215
+Vive tracker pitches related to the center of the back-rest rotation:
+28.40299
+33.34459
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8562284
+0.813391
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+27.24493
+35.16303
+Vive tracker pitches related to the center of the back-rest rotation:
+28.6196
+33.60847
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.859633
+0.8189429
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+23.81786
+33.49224
+Vive tracker pitches related to the center of the back-rest rotation:
+28.34998
+34.76032
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.9324235
+0.8949074
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+27.05211
+34.94846
+Vive tracker pitches related to the center of the back-rest rotation:
+29.40991
+34.26508
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.911703
+0.8710513
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+26.239
+34.03952
+Vive tracker pitches related to the center of the back-rest rotation:
+27.23671
+31.93351
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.9003901
+0.8589413
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+31.70105
+37.0259
+Vive tracker pitches related to the center of the back-rest rotation:
+29.97406
+33.85868
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8584396
+0.8330437
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+26.89118
+34.70862
+Vive tracker pitches related to the center of the back-rest rotation:
+27.47661
+32.33785
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8901093
+0.8487411
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+153.0691
+145.1707
+Vive tracker pitches related to the center of the back-rest rotation:
+27.37143
+32.06133
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8987871
+0.8578466
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+31.87261
+39.68108
+Vive tracker pitches related to the center of the back-rest rotation:
+31.84518
+36.20804
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.9312062
+0.8897282
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+343.273
+338.1115
+Vive tracker pitches related to the center of the back-rest rotation:
+60.45726
+54.04967
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.9562921
+0.9319804
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+31.72052
+39.62239
+Vive tracker pitches related to the center of the back-rest rotation:
+35.04918
+42.29172
+Distances between tracker and center of the back-rest rotation for each pitch:
+1.079201
+1.057091
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+37.32783
+45.43487
+Vive tracker pitches related to the center of the back-rest rotation:
+39.73014
+46.79424
+Distances between tracker and center of the back-rest rotation for each pitch:
+1.036806
+1.020106
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+33.90165
+41.55056
+Vive tracker pitches related to the center of the back-rest rotation:
+36.47419
+43.602
+Distances between tracker and center of the back-rest rotation for each pitch:
+1.045476
+1.023949
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+32.52977
+40.49855
+Vive tracker pitches related to the center of the back-rest rotation:
+34.72926
+42.20327
+Distances between tracker and center of the back-rest rotation for each pitch:
+1.041863
+1.018775
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+31.12724
+38.81417
+Vive tracker pitches related to the center of the back-rest rotation:
+34.93199
+41.79928
+Distances between tracker and center of the back-rest rotation for each pitch:
+1.062917
+1.044083
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+33.09742
+40.83659
+Vive tracker pitches related to the center of the back-rest rotation:
+22.45658
+28.06536
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8365334
+0.7927555
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+32.59523
+40.27845
+Vive tracker pitches related to the center of the back-rest rotation:
+23.87513
+29.56577
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8431303
+0.8024379
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+35.44712
+40.51557
+Vive tracker pitches related to the center of the back-rest rotation:
+26.6187
+30.26042
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8229705
+0.7959828
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+33.69898
+38.73288
+Vive tracker pitches related to the center of the back-rest rotation:
+25.57931
+29.4897
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8310504
+0.8053604
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+31.25479
+38.9791
+Vive tracker pitches related to the center of the back-rest rotation:
+24.99547
+30.76656
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8466647
+0.8110377
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+23.85756
+32.31065
+Vive tracker pitches related to the center of the back-rest rotation:
+21.93585
+27.20211
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8881273
+0.8469843
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+23.56655
+31.24918
+Vive tracker pitches related to the center of the back-rest rotation:
+20.99716
+26.60467
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8513865
+0.8076546
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+22.98796
+30.8864
+Vive tracker pitches related to the center of the back-rest rotation:
+22.46889
+28.19505
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8667774
+0.823
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+24.37678
+32.13244
+Vive tracker pitches related to the center of the back-rest rotation:
+23.36906
+29.07854
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8596295
+0.817405
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+29.07879
+36.95831
+Vive tracker pitches related to the center of the back-rest rotation:
+21.18229
+28.44712
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8704009
+0.824555
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+29.86701
+38.32192
+Vive tracker pitches related to the center of the back-rest rotation:
+23.79409
+29.7284
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8573649
+0.8204318
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+24.12103
+32.60389
+Vive tracker pitches related to the center of the back-rest rotation:
+29.20536
+34.89937
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.9026672
+0.8789581
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+26.99022
+36.0799
+Vive tracker pitches related to the center of the back-rest rotation:
+23.80001
+27.53826
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8998359
+0.8746769
+*** Chair Calibration Data to interpolate the backrest rotation center ***
+Vive tracker pitches:
+29.96687
+38.26367
+Vive tracker pitches related to the center of the back-rest rotation:
+27.819
+33.8853
+Distances between tracker and center of the back-rest rotation for each pitch:
+0.8606834
+0.8255046
